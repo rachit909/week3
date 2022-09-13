@@ -2,13 +2,17 @@ html *{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
 }
 
+main {
+    margin: 50px;
+}
+
 body {
     margin: 5px;
     padding: 5px;
     line-height: 1.15;
 }
   
-h1,h2, h3{
+h1, h2, h3{
     font-weight: bold;
     margin-top: 15px;
     font-size: 45px;
@@ -47,15 +51,18 @@ main img {
     box-sizing: border-box;
 }
 
-main {
-    margin: 50px;
-} 
-
 li {
     border-radius: 20px;
     border: 5px solid black;
     width: 40%;
     margin: 20px;
     padding: 10px;
+}
+
+p {
+    background-color: gainsboro;
+    border-radius: 25px;
+    border: 3px solid gray;
+    margin: 20px;
 }
  
