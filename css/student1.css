@@ -33,3 +33,11 @@ main img {
     margin: 0;
     border: 5px dashed green;
 }
+
+p {
+    color:indigo;
+    border: 5px black solid;
+    background-color: antiquewhite;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
